@@ -16,4 +16,7 @@ Key takeaways:
 This guide takes you from a Kubernetes novice to deploying and managing your first containerized app. It's packed with code snippets, clear explanations, and even tips on how to make your app look great! 🎨
 Whether you're a curious developer, an aspiring DevOps engineer, or just want to stay ahead in tech, this tutorial is your ticket to the exciting world of Kubernetes.
 Ready to embark on your Kubernetes adventure? Dive into the full guide and transform your local machine into a powerful container orchestration platform! 🏆
-#Kubernetes #DockerDesktop #DevOps #CloudNative #ContainerOrchestration #TechTutorial #K8s #MicroservicesArchitecture #ContinuousDeployment #TechLearning #NodeJS #WebDevelopment #SoftwareEngineering #ITSkills #TechInnovation
+
+For more details please follow my below blogs
+
+https://hashnode.com/edit/clxy66oo5000009k1hg0b8tt5
