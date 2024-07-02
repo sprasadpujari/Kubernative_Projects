@@ -19,4 +19,4 @@ Ready to embark on your Kubernetes adventure? Dive into the full guide and trans
 
 For more details please follow my below blogs
 
-https://hashnode.com/edit/clxy66oo5000009k1hg0b8tt5
+https://hashnode.com/post/clxy66oo5000009k1hg0b8tt5
