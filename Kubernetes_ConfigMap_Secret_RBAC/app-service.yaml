@@ -1,11 +1,11 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: chat-app-backend
+  name: secure-app-service
 spec:
   selector:
-    app: chat-app-backend
+    app: secure-app
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 300
+      targetPort: 80
